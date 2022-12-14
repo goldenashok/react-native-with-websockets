@@ -1,11 +1,12 @@
 # react-native-with-websockets
 WebSockets is a protocol that provides full-duplex communication, which means the client and server stay connected over a single TCP connection. Unlike request-response communication, the connection doesn’t close here.
+
+
+# Chrome Extesion
+
 <img src="https://github.com/goldenashok/react-native-with-websockets/blob/main/screen-usage/simple-wesocket-client-chrome-extension.PNG" alt="Chrome Entension" width="500" height="200">
-Chrome Extesion
 
-<img src="https://github.com/sitharthan/sitharthan/blob/main/reactgif.gif" alt="Markdownify" width="500" height="200">
-
-Developed Window
+# Developed Window
 <img src="https://github.com/goldenashok/react-native-with-websockets/blob/main/screen-usage/window.PNG" alt="window" width="500">
 
 Express Server Connect
